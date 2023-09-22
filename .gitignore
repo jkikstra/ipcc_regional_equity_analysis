@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+
+data/*
+!data/README.txt
+!data/AR6_Scenarios_Database_R5_regions_v1.1_LED.csv
